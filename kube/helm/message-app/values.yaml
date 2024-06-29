@@ -1,0 +1,7 @@
+﻿replicaCount: 1
+
+image:
+  registry: docker.io/nivsha08
+  repository: messaging-app
+  tag: latest
+  pullPolicy: IfNotPresent

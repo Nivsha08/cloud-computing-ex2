@@ -1,0 +1,4 @@
+﻿apiVersion: v2
+name: message-app
+description: A Helm chart for deploying the Messaging App
+version: 0.1.0
